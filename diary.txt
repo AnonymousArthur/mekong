@@ -1,0 +1,35 @@
+commit 05408a63ba832f186b46f2c0522f802421a234cf
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Sun Nov 3 22:37:26 2013 +1100
+
+    Just add some reference for homepage image and favicon in about page.
+
+commit 3e5f0ce954cffc03c5fa6c83e1698c915017b5ea
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Sun Nov 3 12:17:44 2013 +1100
+
+    add some comment
+
+commit 77085000cc7bb0f1d45c93226a63d7ee217fdd71
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Sun Nov 3 12:13:00 2013 +1100
+
+    fix up credit card expire date width problem on windows browser.
+
+commit 2ca7ee1115b5481fc91071fc255d2f57527649ef
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Sat Nov 2 20:48:56 2013 +1100
+
+    Website works fine. waiting for bugs report.
+
+commit 56d42230d69c5d433a1cccf7247d325928492a03
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Fri Nov 1 04:15:58 2013 +1100
+
+    Cookie and session feature added. Still working on send comfirm email.
+
+commit 45397d2ecf3c9f9f384b45dadd03c9a349d873b3
+Author: Yancheng Zhu <yzhu028@cse.unsw.EDU.AU>
+Date:   Wed Oct 30 18:31:41 2013 +1100
+
+    Start

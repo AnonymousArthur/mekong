@@ -1,0 +1,8 @@
+login=tester1
+password=tester
+name=<script>alert('test')</script>
+street=<script>alert('test')</script>
+city=<script>alert('test')</script>
+state=<script>alert('test')</script>
+postcode=111
+email=wwww@hotmail.com
